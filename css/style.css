@@ -17,3 +17,9 @@ body {
   text-align: center;
   margin: 1px;
 }
+
+.empty-box {
+  background-color: #1B6CFA;
+  height: 40px;
+  margin: 1px;
+}
