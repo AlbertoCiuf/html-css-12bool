@@ -1,0 +1,19 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.box {
+  color: white;
+  background-color: #1B6CFA;
+  padding: 10px;
+  text-align: center;
+  margin: 1px;
+}
+
+.nested-box {
+  color: white;
+  background-color: #4FE165;
+  padding: 7px;
+  text-align: center;
+  margin: 1px;
+}
